@@ -1,2 +1,5 @@
 # hello-world
-Getting to know GitHub
+
+Hi Humans
+
+Martyn here, just getting to know GitHub
